@@ -1,1 +1,1 @@
-- 📫 How to reach me: check out https://cinnamoroll.me
+- 📫 How to reach me: https://cinnamoroll.me
