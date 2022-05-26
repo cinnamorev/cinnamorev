@@ -1,9 +1,9 @@
-# 💫About Me :
-🕵️ I’m currently working on various projects which are mostly private.
+# 💫About me :
+string 🕵️ = "I’m currently working on various projects which are mostly private.";
 
-💜 Pronouns: they / them
+string 💜 = "Pronouns: they / them";
 
-🎶 Lofi artist in my free-time
+string 🎶 = "Lofi artist in my freetime";
 
 
 # 💻Tech Stack
