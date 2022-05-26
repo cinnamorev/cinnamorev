@@ -13,6 +13,3 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=cinnamorev&icon=0&color=6)](https://visitcount.itsvg.in)
