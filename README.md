@@ -1,9 +1,7 @@
 # 💫About me :
 string 🕵️ = "I’m currently working on various projects which are mostly private.";
 
-string 💜 = "Pronouns: they / them";
-
-string 🎶 = "Lofi artist in my freetime";
+string 💜 = "Hey, I'm Rev. A 19 year old software developer and artist based in Europe.";
 
 
 # 💻Tech Stack
